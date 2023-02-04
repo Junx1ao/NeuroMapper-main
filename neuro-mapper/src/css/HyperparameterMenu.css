@@ -1,0 +1,48 @@
+.hyperparameter-menu {
+    width: 400px;
+    /* height: 200px; */
+    /* background-color: #35617b; */
+  }
+   
+.hyperparameter-display {
+    display: flex;
+    font-family: 'Roboto';
+    font-style: normal;
+    line-height: 16px;
+}
+
+.hp-item {
+    flex-grow: 1;
+    text-align: center;
+}
+
+.hp-label {
+    padding-top: 10px;
+    font-size: x-large;
+}
+
+.hp-value {
+    font-weight: 700;
+    font-size: xx-large;
+}
+
+.hp-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: left;
+    margin-left: 10px;
+    padding-top: 10px;
+    color: #FFFFFF;
+}
+
+.hp-slider {
+    width: 300px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+    padding-left: 15px;
+}
+
